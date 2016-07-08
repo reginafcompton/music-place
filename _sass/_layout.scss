@@ -8,19 +8,23 @@
     position: relative;
 }
 
-aside {
-    background: $heading-background;
+.head-banner {
+    background-color: $heading-background;
     padding: 0px 15px;
     text-align: center;
     margin: 0;
-    height: 50vh;
+    height: 25vh;
     display: flex;
     justify-content: center;
     align-items: center;
+
+    a {
+        color: white;
+    }
 }
 
-.site-title {
-    font-size: 50px;
+.head-title {
+    font-size: 120px;
     letter-spacing: -1px;
     margin-bottom: 0;
     font-family: $heading-font-family;
@@ -101,66 +105,22 @@ aside {
  */
 
 footer {
-    background: #558C89;
+    background: $footing-background;
     margin: 0;
     display: flex;
+    color: white;
+    font-size: $base-font-size;
+    text-align: center;
+    font-family: $heading-font-family;
 }
 
 .site-footer {
-    border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
 }
 
-.footer-heading {
-    font-size: 18px;
-    margin-bottom: $spacing-unit / 2;
-}
-
-.contact-list,
-.social-media-list {
-    list-style: none;
-    margin-left: 0;
-}
-
-.footer-col-wrapper {
-    font-size: 15px;
-    color: $grey-color;
-    margin-left: -$spacing-unit / 2;
-    @extend %clearfix;
-}
-
 .footer-col {
-    float: left;
     margin-bottom: $spacing-unit / 2;
     padding-left: $spacing-unit / 2;
-}
-
-.footer-col-1 {
-    width: -webkit-calc(35% - (#{$spacing-unit} / 2));
-    width:         calc(35% - (#{$spacing-unit} / 2));
-}
-
-.footer-col-2 {
-    width: -webkit-calc(20% - (#{$spacing-unit} / 2));
-    width:         calc(20% - (#{$spacing-unit} / 2));
-}
-
-.footer-col-3 {
-    width: -webkit-calc(45% - (#{$spacing-unit} / 2));
-    width:         calc(45% - (#{$spacing-unit} / 2));
-}
-
-@include media-query($on-laptop) {
-    .footer-col-1,
-    .footer-col-2 {
-        width: -webkit-calc(50% - (#{$spacing-unit} / 2));
-        width:         calc(50% - (#{$spacing-unit} / 2));
-    }
-
-    .footer-col-3 {
-        width: -webkit-calc(100% - (#{$spacing-unit} / 2));
-        width:         calc(100% - (#{$spacing-unit} / 2));
-    }
 }
 
 @include media-query($on-palm) {
@@ -171,6 +131,51 @@ footer {
     }
 }
 
+
+// Assignments content
+
+@mixin formatting {
+    padding-right: 0;
+    padding-left: 0;
+    max-width: 100%;
+    margin: 0;
+    height: 60vh;
+    background-position-x: 40%;
+    background-position-y: 50%;
+    background-attachment: fixed;
+    display: flex;
+}
+
+.dame {
+    background: url("/assets/notre-dame-2.jpg") no-repeat center center;
+
+    @include formatting;
+}
+
+
+.venice {
+    background: url("/assets/Piazzetta_Riva.jpg") no-repeat center center;
+
+    @include formatting;
+}
+
+.london {
+    background: url("/assets/Senesino_Cuzzoni_Berenstadt.jpg") no-repeat center center;
+
+    @include formatting;
+}
+
+.bayreuth {
+    background: url("/assets/bayreuth_house.jpg") no-repeat center center;
+
+    @include formatting;
+}
+
+.soviet {
+    background: url("/assets/lenin.png") no-repeat center center;
+
+    @include formatting;
+}
 
 
 /**
