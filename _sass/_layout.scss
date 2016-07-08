@@ -9,7 +9,7 @@
 }
 
 aside {
-    background: red;
+    background: $heading-background;
     padding: 0px 15px;
     text-align: center;
     margin: 0;
@@ -101,7 +101,7 @@ aside {
  */
 
 footer {
-    background: red;
+    background: #558C89;
     margin: 0;
     display: flex;
 }
