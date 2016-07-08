@@ -78,12 +78,15 @@ li {
 
 
 
-/**
- * Headings
- */
-h1, h2, h3, h4, h5, h6 {
-    font-weight: $base-font-weight;
-    font-family: $heading-font-family;
+// Headings
+h2 {
+    font-family: $base-font-family;
+    margin-top: 10px;
+}
+
+h4 {
+    font-family: $base-font-family;
+    margin-top: 10px;
 }
 
 
