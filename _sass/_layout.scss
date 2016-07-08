@@ -8,20 +8,23 @@
     position: relative;
 }
 
-aside {
-    // background: $heading-background;
-    background: url("/assets/Piano_Banner.jpg") no-repeat center center;
+.head-banner {
+    background-color: $heading-background;
     padding: 0px 15px;
     text-align: center;
     margin: 0;
-    height: 50vh;
+    height: 25vh;
     display: flex;
     justify-content: center;
     align-items: center;
+
+    a {
+        color: white;
+    }
 }
 
-.site-title {
-    font-size: 50px;
+.head-title {
+    font-size: 120px;
     letter-spacing: -1px;
     margin-bottom: 0;
     font-family: $heading-font-family;
@@ -102,9 +105,10 @@ aside {
  */
 
 footer {
-    background: #558C89;
+    background: $footing-background;
     margin: 0;
     display: flex;
+    color: white;
 }
 
 .site-footer {
@@ -176,36 +180,49 @@ footer {
 
 
 // Assignments content
-.page-content {
-    .dame {
+
+@mixin formatting {
+    padding-right: 0;
+    padding-left: 0;
+    max-width: 100%;
+    margin: 0;
+    height: 60vh;
+    background-position-x: 40%;
+    background-position-y: 50%;
+    background-attachment: fixed;
+    display: flex;
+}
+
+.dame {
     background: url("/assets/notre-dame-2.jpg") no-repeat center center;
-    padding-right: 0;
-    padding-left: 0;
-    max-width: 100%;
-    margin: 0;
-    height: 50vh;
-    background-position-x: 40%;
-    background-position-y: 50%;
-    background-attachment: fixed;
-    display: flex;
-    }
+
+    @include formatting;
 }
 
-.page-content {
-    .venice {
+
+.venice {
     background: url("/assets/Piazzetta_Riva.jpg") no-repeat center center;
-    padding-right: 0;
-    padding-left: 0;
-    max-width: 100%;
-    margin: 0;
-    height: 50vh;
-    background-position-x: 40%;
-    background-position-y: 50%;
-    background-attachment: fixed;
-    display: flex;
-    }
+
+    @include formatting;
 }
 
+.london {
+    background: url("/assets/Senesino_Cuzzoni_Berenstadt.jpg") no-repeat center center;
+
+    @include formatting;
+}
+
+.bayreuth {
+    background: url("/assets/bayreuth_house.jpg") no-repeat center center;
+
+    @include formatting;
+}
+
+.soviet {
+    background: url("/assets/lenin.png") no-repeat center center;
+
+    @include formatting;
+}
 
 
 /**
