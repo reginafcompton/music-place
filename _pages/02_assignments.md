@@ -5,8 +5,8 @@ permalink: /assignments/
 ---
 
 <div class="wrapper">
+
   <p>This course requires that students review, study, and contemplate course materials before the beginning of each class session. Below you will find downloadable PDFs and links to select recordings. Please review these materials before the class date: come prepared to engage in conversation about what you heard and read.</p>
-  <p> </p>
 </div>
 
 <section class="dame"></section>
