@@ -9,7 +9,8 @@
 }
 
 aside {
-    background: $heading-background;
+    // background: $heading-background;
+    background: url("/assets/Piano_Banner.jpg") no-repeat center center;
     padding: 0px 15px;
     text-align: center;
     margin: 0;
@@ -170,6 +171,26 @@ footer {
         width:         calc(100% - (#{$spacing-unit} / 2));
     }
 }
+
+
+
+
+// Assignments content
+.page-content {
+    .dame {
+    background: url("/assets/Piano_Banner.jpg") no-repeat center center;
+    padding-right: 0;
+    padding-left: 0;
+    max-width: 100%;
+    margin: 0;
+    height: 50vh;
+    background-position-x: 40%;
+    background-position-y: 50%;
+    background-attachment: fixed;
+    display: flex;
+    }
+}
+
 
 
 
