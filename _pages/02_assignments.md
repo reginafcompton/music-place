@@ -6,7 +6,10 @@ permalink: /assignments/
 
 <div class="wrapper">
 
-  <p>This course requires that students review, study, and contemplate course materials before the beginning of each class session. Below you will find downloadable PDFs and links to select recordings. Please review these materials before the class date: come prepared to engage in conversation about what you heard and read.</p>
+  <h2>The Newberry Library</h2>
+  <h4>October 22 - November 19, 2016</h4>
+  <h4>Saturdays, 1-2:30 pm</h4>
+  <p>For this course, you are expected to review, study, and contemplate course materials before the beginning of each class session. Below you will find downloadable PDFs and links to select recordings. Please look at these materials before the class date: come prepared to engage in conversation about what you heard and read.</p>
 </div>
 
 <section class="dame"></section>
@@ -14,9 +17,11 @@ permalink: /assignments/
 <div class="wrapper">
   <h2>PARIS IN THE MEDIEVAL PERIOD</h2>
   <h4>October 22</h4>
-  <p>This class session investigates the first blossoming of notated polyphonic music, crafted specifically for the Notre Dame Cathedral in Paris during the Medieval period in music.</p>
-  <p>Read these pages from the Oxford History of Western Music by Reichard Taruskin. He gives an overview of the culture and music of the Notre, and he calls to question reliability of historical evidence.</p>
-  <p>Listen to <a href="https://www.youtube.com/watch?v=aySwfcRaOZM">this recording</a> of "Viderunt omnes" by Perotin (c. 1170) performed by the Hilliard Ensemble.</p>
+  <p>In this first session, we investigate the earliest blossoming of notated polyphonic music, cultivated specifically for the Notre Dame Cathedral in Paris during the Medieval period.</p>
+  <p>This week, read select pages from the <em>Oxford History of Western Music</em> by Richard Taruskin (click link below), which gives an overview of the culture of Paris in the twelfth and thirteenth centuries. In addition, listen to <a href="https://www.youtube.com/watch?v=aySwfcRaOZM" target="_blank">"Viderunt omnes"</a> by Perotin (c. 1170) performed by the Hilliard Ensemble. If time permits, explore other performances of music by Perotin and his contemporary Leonin.</p>
+  <h4>Reading Assignment</h4>
+  <p><a href="{{ site.url }}/assets/PDFs/taruskin_OHW_paris.pdf" target="_blank">Taruskin, Richard. “Notre Dame de Paris,” in <em>Oxford History of Western Music</em>, 169-72. Oxford:
+  Oxford University Press, 2005.</a></p>
 </div>
 
 <section class="venice"></section>
@@ -24,7 +29,12 @@ permalink: /assignments/
 <div class="wrapper">
   <h2>VENICE IN THE SEVENTEENTH CENTURY</h2>
   <h4>October 29</h4>
-  <p>This class session considers the origins, characteristics, and context of seventeenth-century Venetian opera.</p>
+  <p>This class session considers the origins, characteristics, and context of seventeenth-century Venetian opera. Before class, read excerpts by Ellen Rosand, who provides a rigorous digest of opera in Venice and dissects the meaning of <em>L'incoronazione di Poppea</em> by Claudio Monteverdi. This class also considers in detail the music and plot of <em>Poppea</em>. Find any synopsis of the opera online; Wikipedia works fine, in this case. Then, listen to <a href="https://www.youtube.com/watch?v=EyQqJANZqe4" target="_blank">Act 1, Scene 6</a> and <a href="https://www.youtube.com/watch?v=W0L1CJBj0GE" target="_blank">Act 1, Scene 9</a>. (N.B. The videos do not have English subtitles: the goal is simply to familiarize yourself with the soundworld of this opera.)</p>
+  <h4>Reading Assignment</h4>
+  <p><a href="{{ site.url }}/assets/PDFs/rosand_17C_venice.pdf" target="_blank">Rosand, Ellen. “Far recitare un’opera a Venezia: Origins and Sources,” in <em>Opera in Seventeenth-
+Century Venice: The Creation of a Genre</em>, 9-15. Berkeley: University of California Press, 1991.</a></p>
+<p><a href="{{ site.url }}/assets/PDFs/Rosand_Ritorno_2009_Cambridge.pdf" target="_blank">---. “Il ritorno a Seneca.” <em>Cambridge Opera Journal</em> 21 (2010): 119-23. </a></p>
+<p>The link redirects you to the entire article by Rosand. Focus on pages 119-123.</p>
 </div>
 
 <section class="london"></section>
@@ -33,6 +43,8 @@ permalink: /assignments/
   <h2>LONDON IN THE EIGHTEENTH CENTURY</h2>
   <h4>November 5</h4>
   <p>This class session considers opera seria and ballad opera in eighteenth-century London.</p>
+
+
 </div>
 
 <section class="bayreuth"></section>
