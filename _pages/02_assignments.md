@@ -43,7 +43,8 @@ Century Venice: The Creation of a Genre</em>, 9-15. Berkeley: University of Cali
   <h2>LONDON IN THE EIGHTEENTH CENTURY</h2>
   <h4>November 5</h4>
   <p>This class session considers opera seria and ballad opera in eighteenth-century London.</p>
-
+  <p><a href="{{ site.url }}/assets/PDFs/Beggars_Opera_OMO.pdf" target="_blank">Hume, Robert D. “The Beggar’s Opera.” <em>Oxford Music Online.</em></a></p>
+  <p><a href="{{ site.url }}/assets/PDFs/Kelly_First Nights.pdf" target="_blank">Kelly, Thomas Forrest. “George Frideric Handel, Giulio Cesare in Egitto,” in <em>First Nights at the Opera</em>, 1-11. New Haven: Yale University Press, 2004.</a></p>
 
 </div>
 
