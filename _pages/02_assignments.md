@@ -42,7 +42,8 @@ Century Venice: The Creation of a Genre</em>, 9-15. Berkeley: University of Cali
 <div class="wrapper">
   <h2>LONDON IN THE EIGHTEENTH CENTURY</h2>
   <h4>November 5</h4>
-  <p>This class session considers opera seria and ballad opera in eighteenth-century London.</p>
+  <p>This class session considers eighteenth-century London, where “opera seria” and its comedic imitation – ballad opera – energized audiences, composers, and social satirists throughout the city. For this session, read Forrest's vivid description of London entertainment, and then consider the synopsis of <em>The Beggar's Opera</em>, a provocative reaction to Italian opera in England. Search YouTube for performances of <em>The Beggar's Opera</em>: consider especially <a href="https://www.youtube.com/watch?v=Uli5SyYexwQ" target="_blank">Act 1, No. 14</a> and <a href="https://www.youtube.com/watch?v=Gkj8HUk83rY" target="_blank">Act 1, No. 15</a></p>
+  <h4>Reading Assignment</h4>
   <p><a href="{{ site.url }}/assets/PDFs/Beggars_Opera_OMO.pdf" target="_blank">Hume, Robert D. “The Beggar’s Opera.” <em>Oxford Music Online.</em></a></p>
   <p><a href="{{ site.url }}/assets/PDFs/Kelly_First Nights.pdf" target="_blank">Kelly, Thomas Forrest. “George Frideric Handel, Giulio Cesare in Egitto,” in <em>First Nights at the Opera</em>, 1-11. New Haven: Yale University Press, 2004.</a></p>
 
