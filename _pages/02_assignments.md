@@ -44,7 +44,7 @@ Century Venice: The Creation of a Genre</em>, 9-15. Berkeley: University of Cali
   <p>This class session considers eighteenth-century London, where “opera seria” and its comedic imitation – ballad opera – energized audiences, composers, and social satirists throughout the city. For this session, read Forrest's vivid description of London entertainment, and then consider the synopsis of <em>The Beggar's Opera</em>, a provocative reaction to Italian opera in England. Explore YouTube, Spotify, or any audio library of your choice for performances of <em>The Beggar's Opera</em>, but consider especially <a href="https://www.youtube.com/watch?v=Uli5SyYexwQ" target="_blank">Act 1, No. 14</a> and <a href="https://www.youtube.com/watch?v=Gkj8HUk83rY" target="_blank">Act 1, No. 15</a>.</p>
   <h4>Reading Assignment</h4>
   <p><a href="{{ site.url }}/assets/PDFs/Beggars_Opera_OMO.pdf" target="_blank">Hume, Robert D. “The Beggar’s Opera.” <em>Oxford Music Online.</em></a></p>
-  <p><a href="{{ site.url }}/assets/PDFs/Kelly_First Nights.pdf" target="_blank">Kelly, Thomas Forrest. “George Frideric Handel, Giulio Cesare in Egitto,” in <em>First Nights at the Opera</em>, 1-11. New Haven: Yale University Press, 2004.</a></p>
+  <p><a href="{{ site.url }}/assets/PDFs/Kelly_First_Nights.pdf" target="_blank">Kelly, Thomas Forrest. “George Frideric Handel, Giulio Cesare in Egitto,” in <em>First Nights at the Opera</em>, 1-11. New Haven: Yale University Press, 2004.</a></p>
 
 </div>
 
@@ -64,6 +64,6 @@ Century Venice: The Creation of a Genre</em>, 9-15. Berkeley: University of Cali
   <h4>November 19</h4>
   <p>This final class looks at music and culture during the totalitarian regime of Stalin, whose administration transformed the musical arts into state propaganda. To prepare, please read two scholarly summaries of "socialist realism," the aesthetic philosophy that governed art in the Soviet Union. In particular, this session will focus on the biography and works of Dmitri Shostakovich, who spent his entire life in Russia. Listen to the last movement of his <a href="https://youtu.be/r0AK_50-9rQ?t=37m44s" target="_blank">Fifth Symphony</a>, a product of totalitarian oppression, both in its practicality and also its hidden defiance.</p>
   <h4>Reading Assignment</h4>
-  <p><a href="{{ site.url }}/assets/PDFs/taruskin_socialist realism.pdf" target="_blank">Taruskin, Richard. “Socialist Realism and the Soviet Avant-Garde,” in <em>Oxford History of Western Music</em>, 775-80. Oxford: Oxford University Press, 2005.</a></p>
-  <p><a href="{{ site.url }}/assets/PDFs/maes_socialist realism.pdf" target="_blank">Maes, Francis. <em>A History of Russian Music</em>. Trans. Arnold J. Pomerans and Erica Pomerans.Berkeley: University of California Press, 2002.</a></p>
+  <p><a href="{{ site.url }}/assets/PDFs/taruskin_socialist_realism.pdf" target="_blank">Taruskin, Richard. “Socialist Realism and the Soviet Avant-Garde,” in <em>Oxford History of Western Music</em>, 775-80. Oxford: Oxford University Press, 2005.</a></p>
+  <p><a href="{{ site.url }}/assets/PDFs/maes_socialist_realism.pdf" target="_blank">Maes, Francis. <em>A History of Russian Music</em>. Trans. Arnold J. Pomerans and Erica Pomerans.Berkeley: University of California Press, 2002.</a></p>
 </div>
