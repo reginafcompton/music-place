@@ -9,7 +9,6 @@ dl, dd, ol, ul, figure {
 }
 
 
-
 /**
  * Basic styling
  */
@@ -26,7 +25,6 @@ body {
 }
 
 
-
 /**
  * Set `margin-bottom` to maintain vertical rhythm
  */
@@ -36,7 +34,6 @@ ul, ol, dl, figure,
 %vertical-rhythm {
     margin-bottom: $spacing-unit / 2;
 }
-
 
 
 /**
@@ -63,23 +60,10 @@ li {
 }
 
 
-// Headings
-h2 {
-    font-family: $base-font-family;
-    margin-top: 10px;
-}
-
-h4 {
-    font-family: $base-font-family;
-    margin-top: 10px;
-}
-
-
 /**
  * Links
  */
 a {
-    // color: $brand-color;
     color: #C3413E;
     text-decoration: none;
     font-weight: bold;
@@ -88,6 +72,7 @@ a {
         text-decoration: underline;
     }
 }
+
 
 /**
  * Wrapper
