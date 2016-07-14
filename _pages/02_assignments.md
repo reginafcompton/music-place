@@ -5,7 +5,6 @@ permalink: /assignments/
 ---
 
 <div class="wrapper">
-
   <h2>The Newberry Library</h2>
   <h4>October 22 - November 19, 2016</h4>
   <h4>Saturdays, 1-2:30 pm</h4>
