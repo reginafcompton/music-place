@@ -166,8 +166,8 @@ footer {
     padding-left: 0;
     max-width: 100%;
     margin: 0;
-    height: 60vh;
-    background-position-x: 40%;
+    height: 65vh;
+    background-position-x: 50%;
     background-position-y: 50%;
     background-attachment: fixed;
     display: flex;
@@ -187,19 +187,19 @@ footer {
 }
 
 .london {
-    background: url("/assets/Senesino_Cuzzoni_Berenstadt.jpg") no-repeat center center;
+    background: url("/assets/Senesino_Cuzzoni_Berenstadt_BW.jpg") no-repeat center center;
 
     @include formatting;
 }
 
 .bayreuth {
-    background: url("/assets/bayreuth_house.jpg") no-repeat center center;
+    background: url("/assets/hoffmann-wagner.jpg") no-repeat center center;
 
     @include formatting;
 }
 
 .soviet {
-    background: url("/assets/lenin.png") no-repeat center center;
+    background: url("/assets/stalin_map.jpg") no-repeat center center;
 
     @include formatting;
 }

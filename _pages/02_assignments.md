@@ -9,6 +9,7 @@ permalink: /assignments/
   <h4>October 22 - November 19, 2016</h4>
   <h4>Saturdays, 1-2:30 pm</h4>
   <p>For this course, you are expected to review, study, and contemplate course materials before the beginning of each class session. Below you will find downloadable PDFs and links to select recordings. Please look at these materials before the class date: come prepared to engage in conversation about what you heard and read.</p>
+  <p>Contact Regina Compton (course instructor) with any questions, concerns, or feedback about class materials or the website: <a href="mailto:reginafcompton@gmail.com">reginafcompton@gmail.com</a>.</p>
 </div>
 
 <section class="dame"></section>
@@ -62,7 +63,8 @@ Century Venice: The Creation of a Genre</em>, 9-15. Berkeley: University of Cali
 <div class="wrapper">
   <h2>RUSSIA IN THE TWENTIETH CENTURY</h2>
   <h4>November 19</h4>
-  <p>This final class looks at music and culture during the totalitarian regime of Stalin, whose administration transformed the musical arts into state propaganda. To prepare, please read two scholarly summaries of "socialist realism," the aesthetic philosophy that governed art in the Soviet Union. In particular, this session will focus on the biography and works of Dmitri Shostakovich, who spent his entire life in Russia. Listen to the last movement of his <a href="https://youtu.be/r0AK_50-9rQ?t=37m44s" target="_blank">Fifth Symphony</a>, a product of totalitarian oppression, both in its practicality and also its hidden defiance.</p>
+  <p>This final class looks at music and culture during the totalitarian regime of Stalin, whose administration transformed the musical arts into state propaganda. To prepare, please read two scholarly summaries of "socialist realism," the aesthetic philosophy that governed art in the Soviet Union.</p>
+  <p>In particular, this session will focus on the biography and works of Dmitri Shostakovich, who spent his entire life in Russia. Listen to the last movement of his <a href="https://youtu.be/r0AK_50-9rQ?t=37m44s" target="_blank">Fifth Symphony</a>, a product of totalitarian oppression, both in its practicality and also its hidden defiance.</p>
   <h4>Reading Assignment</h4>
   <p><a href="{{ site.url }}/assets/PDFs/taruskin_socialist_realism.pdf" target="_blank">Taruskin, Richard. “Socialist Realism and the Soviet Avant-Garde,” in <em>Oxford History of Western Music</em>, 775-80. Oxford: Oxford University Press, 2005.</a></p>
   <p><a href="{{ site.url }}/assets/PDFs/maes_socialist_realism.pdf" target="_blank">Maes, Francis. <em>A History of Russian Music</em>. Trans. Arnold J. Pomerans and Erica Pomerans.Berkeley: University of California Press, 2002.</a></p>
